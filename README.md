@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**nightmaredhanu/nightmaredhanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Dhanush 👨‍💻  
+🚀 AWS & DevOps Enthusiast  
 
-Here are some ideas to get you started:
+💡 I love working on cloud infrastructure and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- ☁️ AWS (EC2, S3, RDS, IAM)
+- ⚙️ DevOps (Git, GitHub, CI/CD)
+- 🐧 Linux
+
+### 📌 Current Focus
+- Learning Docker & Kubernetes  
+- Building real-time AWS projects  
+
+### 📫 Contact
+- Email: your-mdhanush686@gmail.com  
